@@ -3,7 +3,7 @@ from pygame import mixer as mix
 
 
 root = Tk()
-root.title("Smart Home by")
+root.title("Smart Home by Mudit Mehta")
 root.geometry("1000x700")
 root.resizable(0,0)
 
